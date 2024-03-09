@@ -45,7 +45,7 @@ public class MonthName {
                 System.out.println("December");
                 break;
             default:
-                System.out.println("Invalid Month");
+                System.out.println("Invalid month");
                 break;
         }
     }
